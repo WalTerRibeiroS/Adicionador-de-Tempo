@@ -1,0 +1,15 @@
+@font-face{
+        src:url(Fontes_copia/Inter-VariableFont_opsz,wght.ttf);
+        font-family:inter;
+    }  
+
+body{
+    padding: 100px;
+    font-family: inter;
+    text-align: center;
+    background: radial-gradient(circle, hsl(280, 5%, 78%), hsl(0, 0%, 0%));
+    font-size: 1.5em;
+}
+.botao{
+    cursor: pointer;
+}
